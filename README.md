@@ -1,18 +1,11 @@
 ### Hi there, I'm Mohamed 👋
 
-I'm a student developer passionate about solving complex problems and building useful tools. I'm currently focused on mastering backend technologies and contributing to the open-source community.
-
----
-
-🌱 **I’m currently learning & building:**
-- Mastering Python and advanced SQL for data manipulation.
-- Containerizing applications with Docker.
-- Actively building projects for my portfolio.
+I'm a student developer learning about solving complex problems and building useful tools. I'm currently focused on mastering devops technologies and contributing to the open-source community.
 
 💻 **My Tech Stack:**
-- **Languages:** Python, SQL
-- **Tools:** Docker, Git, VS Code
-- **Interests:** Backend Development, Open Source, Automation
+- **Languages:** Python, c++, bash
+- **Tools:** Docker, Git, Github , Aws , azure , cloudfalre
+- **Interests:** cloud, infrastructure, Open Source, Automation
 
 📫 **How to reach me:**
 - Connect with me on LinkedIn: www.linkedin.com/in/mohamed-esmail-315747286
